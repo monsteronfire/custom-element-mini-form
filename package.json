@@ -1,0 +1,11 @@
+{
+  "name": "miniform",
+  "version": "1.0.0",
+  "main": "mini-form.js",
+  "repository": "https://github.com/monsteronfire/custom-element-mini-form.git",
+  "author": "monsteronfire <monsteronfire@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "web-component-tester": "^6.0.0"
+  }
+}
